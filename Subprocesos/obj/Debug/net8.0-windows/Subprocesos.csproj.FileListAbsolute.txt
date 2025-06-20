@@ -1,0 +1,17 @@
+C:\Users\Denise\Documents\Downloads\Subprocesos\bin\Debug\net8.0-windows\Subprocesos.exe
+C:\Users\Denise\Documents\Downloads\Subprocesos\bin\Debug\net8.0-windows\Subprocesos.deps.json
+C:\Users\Denise\Documents\Downloads\Subprocesos\bin\Debug\net8.0-windows\Subprocesos.runtimeconfig.json
+C:\Users\Denise\Documents\Downloads\Subprocesos\bin\Debug\net8.0-windows\Subprocesos.dll
+C:\Users\Denise\Documents\Downloads\Subprocesos\bin\Debug\net8.0-windows\Subprocesos.pdb
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.Form1.resources
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.csproj.GenerateResource.cache
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.AssemblyInfoInputs.cache
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.AssemblyInfo.cs
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.csproj.CoreCompileInputs.cache
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.sourcelink.json
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.dll
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\refint\Subprocesos.dll
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.pdb
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\Subprocesos.genruntimeconfig.cache
+C:\Users\Denise\Documents\Downloads\Subprocesos\obj\Debug\net8.0-windows\ref\Subprocesos.dll
